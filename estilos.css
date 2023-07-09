@@ -1,0 +1,23 @@
+html {
+    font-size: 10px;
+}
+body{
+    background-color: rgba(128, 128, 128, 0.267)}
+
+/* Menú Superior */
+
+.menuSuperior {
+    list-style-type: none;
+    text-align: center;
+    background-color: black;
+}
+.menuSuperior li {
+    display: inline-block;
+    padding: 25px;
+}
+.menuSuperior a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 2rem;
+}
